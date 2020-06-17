@@ -1,0 +1,17 @@
+.advantages {
+    min-height: 472px;
+    padding: 69px 0 81px 0;
+    background: url(../img/bg/white_bg.jpg);
+    &__header {
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+        color: #0d0d0d;
+        text-transform: uppercase;
+    }
+    &__wrapper {
+        margin-top: 65px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
